@@ -1,0 +1,6 @@
+*.json
+*.pickle
+
+# IDE etc.
+.idea
+.python-version
